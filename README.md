@@ -5,4 +5,5 @@ Prerequistes:
 2.Redis-db
 3.Mongodb
 
-To run this project run the command "npm run start"
+To run this project run the command "npm install & npm run start"
+
